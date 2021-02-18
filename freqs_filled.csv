@@ -1,0 +1,326 @@
+freqs,doses_per_day
+Q4H PRN,6
+Q4H,6
+Once,1
+Q2H,12
+Q2H PRN,12
+q 4 hour PRN,6
+Q1H,24
+Once X1,1
+Q1H PRN,24
+Q5 Min PRN,288
+.STK-MED,1
+Q6H PRN,4
+Q3H,8
+q4hr,6
+Q3H PRN,8
+Q4HPRN,6
+ZPYXISVEND,1
+Q15MINPRN,96
+1XONLY,1
+Every 4 hours PRN,6
+PACU USE ONLY,1
+ONETIME,1
+q2hr,12
+ONCE X1,1
+Q3HPRN,8
+q 2 hour PRN,12
+Q2HPRN,12
+Every 5 min PRN,288
+Q6H,4
+ONE,1
+PRN,1
+CONTINUOUS,1
+q 1 hour PRN,1
+TITRATE,1
+q1hr,24
+Q5MIN X5,288
+PYX1TIME,1
+Q1HPRN,24
+Q30MIN,48
+POSTOP,1
+Every 2 hours PRN,12
+Q15 Min PRN,96
+Q10 Min PRN,144
+Q6HPRN,4
+Q4HP,6
+q5min H4,288
+PACU USE ONLY X1,1
+q 6 hour PRN,4
+q5min,288
+q15minprn INDEF,96
+ONCALL,1
+Every 3 hours PRN,8
+Q2MIN X5,720
+prn4 INDEF,4
+ONCE,1
+Q6minPRN INDEF,240
+ONE TIME X1,1
+PRN X2,2
+q6hr,4
+q 3 hour PRN,8
+Q5M,288
+Every 6 hours PRN,4
+Q5MIN,288
+Every 30 min PRN,48
+prn3 INDEF,8
+Q8H PRN,3
+Once PRN,1
+prn1 INDEF,1
+Q15 MIN PRN,96
+Every 1 hour PRN,24
+Q5MINPRN,288
+Q4HR,6
+q3hr,8
+Q30 Min PRN,48
+Once PRN X1,1
+Q5 min PRN,288
+ONCALL X99,1
+Q8H,3
+TID,3
+Q2HRSPRN,12
+Every 2 hour PRN,12
+Q5MIN X10,288
+BID,2
+Q6HR,4
+Q15M,96
+prn6 INDEF,4
+Q2HP,12
+q 15 min PRN,96
+Q6HP,4
+OT,1
+Q8HPRN,3
+Q5 MIN PRN,288
+Once as needed X1,1
+.STK-MED 1,1
+STAT,1
+prn2 INDEF,12
+EVERY 4 HR PRN Routine,6
+q 5 min PRN,288
+Q30MIN X2,48
+q 8 hour PRN,3
+Once as needed,1
+X1,1
+BID PRN,2
+Every 1 hour prn,24
+Q1HP,24
+Q12H PRN,2
+prn INDEF,1
+as directed,1
+q8hr,3
+ONCALL X1,1
+4x Daily PRN,4
+Q15 min PRN,96
+ONCALL X2,2
+ONETIMEPRN,1
+Q4HRSPRN,6
+TID PRN,3
+ONE TIME One Time,1
+Q12H,2
+ONE TIME One Time Stat,1
+Every 10 min PRN,144
+Post-Proc q 5 min PRN,288
+2 times per day,2
+As needed,1
+1X,1
+ONE TIME,1
+ONCERX,1
+QID,4
+ONE 1,1
+X1ED M14,1
+Q8HR,3
+Q4HRS,6
+DAILYPRN,1
+Every 8 hours PRN,3
+Titrated/See admin instructions,1
+Q12HR,2
+QID PRN,4
+.DISP,1
+NOW,1
+.RRT ORDER,1
+Q1HRSPRN,24
+6H,6
+ONCE PRN INDEF,1
+X1 M539,1
+BIDPRN,2
+SEEINSTR,1
+Every 6 hours,4
+One Time Stat,1
+X1 M599,1
+q12hr,2
+Daily PRN,1
+OTO,1
+DAILY,1
+Q2M,2
+X1 M659,1
+PRN X1,1
+Every 12 hours scheduled,2
+X1 M779,1
+X1 M419,1
+Q4H (int),6
+q 4 hour,6
+q 6 hour,4
+X1 M359,1
+Q6H (int),4
+X1 M719,1
+Daily,1
+TIDPRN,3
+Q6H SCH,4
+PREOP,1
+X1 M839,1
+2xDaily,2
+2 times daily PRN,2
+Q4H SCH,6
+3xDaily,3
+3 times daily,3
+4x Daily,4
+Q72H,0.333333333
+2 times daily,2
+X1 M899,1
+QHS,1
+Every 8 hours,3
+PROCEDURAL SEDATION,1
+4 times per day,4
+prn8 INDEF,3
+Q1H X3,24
+X1 M1079,1
+q12hr (interval),2
+Every 8 hours scheduled,3
+X1 M959,1
+X1 M1139,1
+PRNP,1
+X1 M1019,1
+Q8HP,3
+Every 6 hours scheduled,4
+OTCOND,1
+Every 12 hours,2
+ONCE PRN X1,1
+q 8 hour,3
+Q8H SCH,3
+BID (09 17),2
+Nightly,1
+Nightly PRN,1
+UD,1
+Every 12 hours PRN,2
+1xDaily,1
+Give in Surgery,1
+Q30MIN X4,48
+Once H2,1
+Continuous,1
+Q24H PRN,1
+ONDEM,1
+Q1H X4,24
+DAILY (0900),1
+BID M/N,2
+prntid INDEF,3
+3 times daily PRN,3
+Q1HRS,24
+TID (09 14 21),3
+"q6h,0000,0600,1200,1800 INDEF",4
+PROCEDURE IR,1
+1xDaily hs,1
+PER PROTOCOL,1
+QHSPRN,1
+Q1H X2,24
+Q12,2
+PRN X999,1
+AS-DIR,1
+X3,2
+NIGHTLY,1
+QAM,1
+PROTOCOL,1
+Q12H SCH,2
+daily                                                                                                                                                                                                                                                          ,1
+Q24H,1
+rtq4h,1
+TIDP,3
+Pre-Proc Once X1,1
+Q8H (int),3
+UDP,1
+Daily BEDTIME,1
+BIDP,2
+Resp q 1 hour PRN,24
+HS,1
+DAILY PRN,1
+Q6HRSPRN,4
+QHS PRN,1
+qDay,1
+prnbid INDEF,2
+BID M/E,2
+Intra-Proc Once X1,1
+Q6,4
+ONCALL X5,1
+2100,1
+MWF,0.42857
+HS PRN,1
+4 Times Daily,4
+q 12 hour (BID),2
+QHS (2100),1
+Continuous PRN,1
+QDP,4
+Q4H X2,6
+"bida,0800,2200 INDEF",2
+qHS,1
+Q10H,2.4
+Q6H X4,4
+"once,1200 INDEF",1
+q 12 hour,2
+X2,2
+DAILY (0600),1
+TIDAC,3
+"qid8,0800,1200,1800,2200 INDEF",4
+Q12H (int),2
+twice a day                                                                                                                                                                                                                                                    ,2
+BEDTIME,1
+"once,1000 INDEF",1
+QPM,1
+q8hr (interval),3
+See Admin Instructions,1
+Q8,3
+Q24H SCH,1
+Q5MIN X3,288
+prnqd INDEF,4
+8H,3
+See Admin Notes,1
+q2hr X2,12
+BID AC,2
+BID X4,2
+Q2H X2,12
+"q8h ,0600,1400,2200 INDEF",3
+Every evening,1
+Q24HR,1
+Q4H WA,1
+Post-Proc q 3 min PRN,480
+1xDaily ac,1
+At bedtime,1
+"90,015,002,100",3
+As needed X1,1
+BID Before Meals,2
+Pre-Proc Continuous,1
+Daily as needed,1
+BID X2,2
+Q10MIN X2,240
+Q6H X2,4
+Q48H,0.5
+Daily with breakfast,1
+ASDIRECT,1
+Q3MINPRN,480
+"DAILY,DAILY",1
+ONCALL X10,1
+"BID,TWICE A DAY",2
+DIALYSIS X99,1
+"OC,0600 INDEF",1
+HSPRN,1
+Q0600,4
+TID MEALS,3
+TID W/MEALS,3
+12H,2
+Titrate,1
+PreOP,1
+INFUSE,1
+Q15MIPRN,96
+ONCE PRN,1
+900,1
+PROCEDURE CATH LAB,1
+AS DIRECTED,1
+730,1
